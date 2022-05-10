@@ -34,7 +34,7 @@ var config = {
     desc: {
         turn_on: "五月十一",
         play: "Music",
-        bannar_coming: "Mua",
+        bannar_coming: "Mua~",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
