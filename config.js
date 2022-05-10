@@ -38,7 +38,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "H",
+        wish_message: "Happy Birthday",
         story: "A MESSAGE FOR YOU",
     }
 };
